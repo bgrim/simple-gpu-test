@@ -12,7 +12,6 @@ sleeptime=1000
 	echo ""
 	echo ""
 	echo ""
-	echo "Throttle count equals: " $throttle    
 	echo "Sleeptime is equal to: " $sleeptime
 	echo "The number of kernels: " $nkernels
 	
